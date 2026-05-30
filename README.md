@@ -1,5 +1,11 @@
 # Sistema Escolástico PHP
 
+MUY IMPORTANTE!!:
+EL USUARIO PARA LA INCIALIZACION ES:
+admin 
+CONTRASEÑA:
+12345
+
 Proyecto desarrollado en PHP y MySQL para la gestión de alumnos y notas.
 
 ## Tecnologías utilizadas
